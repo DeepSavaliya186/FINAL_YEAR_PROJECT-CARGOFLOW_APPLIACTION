@@ -1,0 +1,98 @@
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\bin\Debug\Driver_Application.exe.config
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\bin\Debug\Driver_Application.exe
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\bin\Debug\Driver_Application.pdb
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\bin\Debug\Guna.UI2.dll
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.AssemblyReference.cache
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Main_Page.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Properties.Resources.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.GenerateResource.cache
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.CoreCompileInputs.cache
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.CopyComplete
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.exe
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.pdb
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Dashboard.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Show_Details.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.order_Form.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_Assigncs.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_Details_Assign.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.driver_reassign.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_completion.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_History.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.ADD_DRIVER.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_DETAILS.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_REFERSH.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.MAKE_ORDER.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_ASSIGN.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_DETAILS2.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 609 MINOR PROJECT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.ORDER_REFRESH.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\bin\Debug\Driver_Application.exe.config
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\bin\Debug\Driver_Application.exe
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\bin\Debug\Driver_Application.pdb
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\bin\Debug\Guna.UI2.dll
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.AssemblyReference.cache
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.ADD_DRIVER.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Dashboard.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_ASSIGN.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_DETAILS.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_DETAILS2.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.driver_reassign.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_REFERSH.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Main_Page.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.MAKE_ORDER.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_Assigncs.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_completion.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_Details_Assign.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.order_Form.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_History.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.ORDER_REFRESH.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Properties.Resources.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Show_Details.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.GenerateResource.cache
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.CoreCompileInputs.cache
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.CopyComplete
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.exe
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.pdb
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Admin_Login.resources
+D:\CMPICA CHARUSAT\6 SEMESTER\CA - 610 MOBILE APPLICATION DEVELOPMENT\Driver_Application\Driver_Application\obj\Debug\Driver_Application.vechile_mangement.resources
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Driver_Application.exe.config
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Driver_Application.exe
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Driver_Application.pdb
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Guna.UI2.dll
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.AssemblyReference.cache
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.ADD_DRIVER.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Admin_Login.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Dashboard.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_ASSIGN.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_DETAILS.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_DETAILS2.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.driver_reassign.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.DRIVER_REFERSH.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Main_Page.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.MAKE_ORDER.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_Assigncs.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_completion.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_Details_Assign.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.order_Form.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Order_History.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.ORDER_REFRESH.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Properties.Resources.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Show_Details.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.vechile_mangement.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.GenerateResource.cache
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.csproj.CoreCompileInputs.cache
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.exe
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.pdb
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_A.2D96E839.Up2Date
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.client_manage.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Client_Orders.resources
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\BACKUP\Driver_Application\Driver_Application\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.Google_Maps.resources
+D:\BACKUP\Driver_Application\Driver_Application\obj\Debug\Driver_Application.client_viewed_Data.resources
