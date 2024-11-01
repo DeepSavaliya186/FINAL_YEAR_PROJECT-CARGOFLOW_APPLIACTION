@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoFlow_Client_App", "CargoFlow_Client_App\CargoFlow_Client_App.csproj", "{2BE06DA8-BD55-4AAA-87CD-7BEF3488069E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE06DA8-BD55-4AAA-87CD-7BEF3488069E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE06DA8-BD55-4AAA-87CD-7BEF3488069E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE06DA8-BD55-4AAA-87CD-7BEF3488069E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE06DA8-BD55-4AAA-87CD-7BEF3488069E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5190DE-9A59-419E-BBF0-1911C7C695FC}
+	EndGlobalSection
+EndGlobal
